@@ -8,29 +8,19 @@
 - ✅ Cohere (Command R+) - API Key
 - ✅ Mistral (Small) - API Key
 - ✅ NVIDIA (Llama 3.3 70B + Nemotron 3) - API Key
-- ❌ ~~OpenAI (GPT-4o-mini)~~ - Eliminado
 
 ### Imagen (3 opciones)
 - ✅ Pollinations - Gratis
 - ✅ OpenRouter xAI Grok Imagine - $0.05/imagen
 - ✅ OpenRouter Recraft v4.1 - $0.04/imagen
-- ❌ ~~Leonardo~~ - Eliminado
-- ❌ ~~Replicate (FLUX + SD3.5)~~ - Eliminado
-- ❌ ~~Gemini Imagen~~ - Eliminado
-
+- 
 ### Video (3 opciones)
 - ✅ OpenRouter Wan 2.6 - $0.04/segundo
 - ✅ OpenRouter Veo 3.1 Lite - $0.05/segundo
 - ✅ OpenRouter xAI Grok Imagine Video - $0.05/segundo
-- ❌ ~~Kling~~ - Eliminado
-- ❌ ~~Hailuo~~ - Eliminado
-- ❌ ~~Gemini Video (Veo directo)~~ - Eliminado
-- ❌ ~~HuggingFace Video~~ - Eliminado
 
 ### Audio
 - ✅ Groq TTS (Orpheus v1) - Gratis
-- ❌ ~~HuggingFace Audio~~ - Eliminado
-- ❌ ~~Groq TTS anterior (playai)~~ - Reemplazado
 
 ## Configuración rápida
 
