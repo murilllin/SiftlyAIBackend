@@ -76,8 +76,8 @@
 |----------|--------|--------|-------------------|
 | Imagen | xAI Grok | $0.05/img | ~100 imágenes |
 | Imagen | Recraft | $0.04/img | ~125 imágenes |
-| Video | Wan 2.6 | $0.04/s | ~125 segundos |
-| Video | Veo 3.1 Lite | $0.05/s | ~100 segundos |
+| Video | Wan 2.6 | $0.08/s | ~125 segundos |
+| Video | Veo 3.1 Lite | $0.08/s | ~100 segundos |
 | Video | xAI Grok | $0.05/s | ~100 segundos |
 
 ## Notas importantes
