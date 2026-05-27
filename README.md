@@ -25,7 +25,7 @@
 
 1. **Clonar/reemplazar** este proyecto en tu workspace
 2. **Configurar `application.properties`**:
-   - `api.openrouter.key` - Tu key de OpenRouter (ya recargada con $5)
+   - `api.openrouter.key` - Tu key de OpenRouter (ya recargada)
    - `api.groq.key` - Tu key de Groq
    - `api.gemini.key` - Tu key de Gemini AI Studio
    - `api.cohere.key` - Tu key de Cohere
