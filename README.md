@@ -3,25 +3,24 @@
 ## Cambios en esta versión
 
 ### Texto (5 modelos)
-- ✅ Groq (Llama 3.3) - Gratis
-- ✅ Gemini (2.5 Flash) - Gratis con límite diario
-- ✅ Cohere (Command R+) - API Key
-- ✅ Mistral (Small) - API Key
-- ✅ NVIDIA (Llama 3.3 70B + Nemotron 3) - API Key
+- ✅ Groq (Llama 3.3)
+- ✅ Gemini (2.5 Flash)
+- ✅ Cohere (Command R+)
+- ✅ Mistral (Small)
+- ✅ NVIDIA (Llama 3.3 70B + Nemotron 3)
 
 ### Imagen (3 opciones)
 - ✅ Pollinations - Gratis
-- ✅ OpenRouter xAI Grok Imagine - $0.05/imagen
-- ✅ OpenRouter Recraft v4.1 - $0.04/imagen
+- ✅ OpenRouter xAI Grok Imagine
+- ✅ OpenRouter Recraft v4.1
 - 
 ### Video (3 opciones)
-- ✅ OpenRouter Wan 2.6 - $0.04/segundo
-- ✅ OpenRouter Veo 3.1 Lite - $0.05/segundo
-- ✅ OpenRouter xAI Grok Imagine Video - $0.05/segundo
+- ✅ OpenRouter Wan 2.6
+- ✅ OpenRouter Veo 3.1 Lite
+- ✅ OpenRouter xAI Grok Imagine Video
 
 ### Audio
-- ✅ Groq TTS (Orpheus v1) - Gratis
-
+- ✅ Groq TTS (Orpheus v1)
 ## Configuración rápida
 
 1. **Clonar/reemplazar** este proyecto en tu workspace
